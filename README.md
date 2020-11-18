@@ -1,6 +1,6 @@
 # PandasUsefulCommands
 
-I will use one of the csv files of the Capital Bikeshare trip history data to try some of the most useful Pandas commands.
+I will use one of the csv files of the Capital Bikeshare trip history data to try some of the basic Pandas commands.
 
 The Capital Bikeshare trip history data is available on: https://www.capitalbikeshare.com/system-data
 
